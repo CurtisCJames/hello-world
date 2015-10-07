@@ -6,3 +6,5 @@ Change added some text!
 Yet more things appended!
 
 Try command line
+
+Fininsh Git Commit
